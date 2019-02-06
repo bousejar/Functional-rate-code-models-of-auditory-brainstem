@@ -7,9 +7,13 @@ To run the simulations run the script runAllSim.m
 
 
 This implementation uses 3rd party code: 
+
 AMtoolbox http://amtoolbox.sourceforge.net/
+
 LegendFlex https://www.mathworks.com/matlabcentral/fileexchange/31092-legendflex-m-a-more-flexible-customizable-legend
+
 parfor_progres https://www.mathworks.com/matlabcentral/fileexchange/32101-progress-monitor-progress-bar-that-works-with-parfor
+
 SETPOS 1.2 - GETPOS 1.2 https://www.mathworks.com/matlabcentral/fileexchange/13927-setpos-1-2-getpos-1-2
 
 
